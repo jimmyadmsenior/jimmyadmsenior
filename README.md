@@ -20,8 +20,8 @@
 </div>
 
 ###
-
-<div align="center">
+<h2 align="left">Social</h2>
+<div align="left">
   <a href="https://www.instagram.com/jimmycastilho/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
