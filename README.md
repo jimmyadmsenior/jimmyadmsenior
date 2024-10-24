@@ -45,3 +45,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
+<div align="center">
+<br><p align="centre"><b>Contagem de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jimmyadmsenior}/count.svg" /></p> 
+<br></div>
