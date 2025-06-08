@@ -42,10 +42,6 @@ Every line of code I write is crafted with security in mind, applying secure dev
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmyadmsenior&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 <h2 align="left">Social</h2>
 <div align="left">
@@ -71,4 +67,10 @@ Every line of code I write is crafted with security in mind, applying secure dev
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jimmyadmsenior}/count.svg" /></p> 
 <br></div>
 
-![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmyadmsenior&show_icons=true&theme=gruvbox)
+<div align="center">
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jimmyadmsenior&theme=merko&show_icons=true&hide_border=false&count_private=true"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyadmsenior&theme=merko&hide_border=false"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyadmsenior&theme=merko&show_icons=true&hide_border=false&layout=compact"/>
+ 
+</div>
