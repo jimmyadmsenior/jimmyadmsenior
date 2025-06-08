@@ -7,11 +7,9 @@ Every line of code I write is crafted with security in mind, applying secure dev
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmyadmsenior&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
+
+---
 
 ### 🧰 Languages and Tools
 
@@ -44,7 +42,9 @@ Every line of code I write is crafted with security in mind, applying secure dev
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmyadmsenior&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 <h2 align="left">Social</h2>
