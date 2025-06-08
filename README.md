@@ -1,8 +1,9 @@
-# 🏄‍♂️ Forrest Knight
+# 🔐 Jimmy Castilho
+**`Digital Security Craftsman (Developer/Cybersecurity Enthusiast/Creator)`**
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+I'm an indie full-stack developer passionate about cybersecurity, building secure and robust digital solutions one project at a time. All my coding projects are built from the ground up, from planning and security architecture all the way to implementing solutions that solve real-world problems with clean and secure code. My specialty lies in backend development, where I build resilient APIs and secure systems, but I also have a passion for creating elegant and intuitive graphical interfaces that provide an exceptional user experience.
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
+Every line of code I write is crafted with security in mind, applying secure development best practices and staying constantly updated with the latest cybersecurity trends. From concept to production, I always strive to balance functionality, performance, and security in all my creations.
 
 ###
 
@@ -69,3 +70,5 @@ I'm an indie full-stack developer and content creator building my version of the
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jimmyadmsenior}/count.svg" /></p> 
 <br></div>
+
+![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmyadmsenior&show_icons=true&theme=gruvbox)
