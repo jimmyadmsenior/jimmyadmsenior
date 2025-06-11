@@ -1,5 +1,5 @@
 # 🔐 Jimmy Castilho
-**`Digital Security (Developer/Cybersecurity Enthusiast/Creator)`**
+**`Digital Security (Developer/Cybersecurity Enthusiast/Student)`**
 
 I'm an indie full-stack developer passionate about cybersecurity, building secure and robust digital solutions one project at a time. All my coding projects are built from the ground up, from planning and security architecture all the way to implementing solutions that solve real-world problems with clean and secure code. My specialty lies in backend development, where I build resilient APIs and secure systems, but I also have a passion for creating elegant and intuitive graphical interfaces that provide an exceptional user experience.
 
