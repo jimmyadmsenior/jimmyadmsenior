@@ -59,11 +59,6 @@ Every line of code I write is crafted with security in mind, applying secure dev
 <br><br>
 
 <div align="center">
-<br><p align="centre"><b>Contagem de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jimmyadmsenior}/count.svg" /></p> 
-<br></div>
-
-<div align="center">
  
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jimmyadmsenior&theme=merko&show_icons=true&hide_border=false&count_private=true"/>
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyadmsenior&theme=merko&hide_border=false"/>
