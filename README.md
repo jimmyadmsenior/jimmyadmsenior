@@ -30,15 +30,6 @@ Every line of code I write is crafted with security in mind, applying secure dev
 
 <br />
 
-#
-
-   <p align="left">
-      <a href="https://github.com/jimmyadmsenior?tab=followers">
-         <img alt="follows" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jimmyadmsenior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/jimmyadmsenior?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jimmyadmsenior?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
 ###
 <h2 align="left">Social</h2>
 <div align="left">
